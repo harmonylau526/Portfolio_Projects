@@ -1,6 +1,9 @@
 /*
 Queries used for Tableau Project
+Simpler codes has been used and exported using Data Grip as CSV fot Tableau
+Used new data from Owid and updated to 22-Oct-2022
 */
+
 
 ## Convert date from String to date format
 UPDATE `OwidCovid`
